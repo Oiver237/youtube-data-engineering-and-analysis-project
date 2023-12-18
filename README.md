@@ -28,7 +28,8 @@ The dataset is available on this url: https://www.kaggle.com/datasets/datasnaek/
 
 #Architecture Diagram
 
-![architecture](https://github.com/Oiver237/youtube-data-engineering-and-analysis-project/assets/73575249/12babb09-72cb-4079-a5ae-bfa6d1dbc062)
+![architecture drawio](https://github.com/Oiver237/youtube-data-engineering-and-analysis-project/assets/73575249/84010403-4e9e-4a20-84ad-6d4ce327b7c2)
+
 
 
 -------------------------------------------------------------------FR-------------------------------------------------------------------------------
@@ -64,5 +65,6 @@ Le jeu de données est disponible à cette URL : https://www.kaggle.com/datasets
 
 #Diagramme de l'architecture
 
-![architecture](https://github.com/Oiver237/youtube-data-engineering-and-analysis-project/assets/73575249/be978f5f-f9d6-450d-a108-6409a480c671)
+![architecture drawio](https://github.com/Oiver237/youtube-data-engineering-and-analysis-project/assets/73575249/aee8c953-7d65-4387-9ef8-5780bbe7bf44)
+
 
